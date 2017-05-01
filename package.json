@@ -1,0 +1,17 @@
+{
+  "name": "profilejquery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+   "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apiai": "^4.0.2",
+    "express": "^4.15.2",
+    "body-parser": "^1.12.4",
+	  "request":"*"
+  }
+}
